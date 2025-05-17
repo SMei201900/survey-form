@@ -2,6 +2,10 @@ h1 {
   color: blue; /*placeholder*/
 }
 
+.form-background {
+  background-color: yellow;
+}
+
 #intro-section {
   text-align: center;
 }
