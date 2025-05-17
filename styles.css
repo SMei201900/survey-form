@@ -6,6 +6,11 @@ h1 {
   background-color: yellow;
 }
 
+.styling-the-labels {
+  display: flex;
+  flex-direction: column;
+}
+
 #intro-section {
   text-align: center;
 }
