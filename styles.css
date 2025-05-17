@@ -3,7 +3,7 @@ h1 {
 }
 
 .form-background {
-  background-color: yellow;
+  background-color: yellow; /*placeholder*/
   border-radius: 10px;
   margin-left: 100px;
   margin-right: 100px; /*margin ensures box does not touch edge of computer*/
@@ -20,7 +20,7 @@ h1 {
 #name-label,
 #email-label,
 #age-label {
-  padding: 5px;
+  padding: 5px; /*adds spacing between each form input*/
 }
 
 #intro-section {
