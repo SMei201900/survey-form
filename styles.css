@@ -1,5 +1,9 @@
 h1 {
-  color: blue;
+  color: blue; /*placeholder*/
+}
+
+#intro-section {
+  text-align: center;
 }
 
 header p {

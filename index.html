@@ -21,5 +21,22 @@
       <h1>Survey</h1>
       <p>Thank you for filling out our survey!</p>
     </header>
+    <form id="survey-form">
+      <div class="form-background">
+        <label id="name-label">
+          Name: <input type="text" id="name" placeholder="John Doe" required />
+        </label>
+
+        <label id="email-label">
+          Email:
+          <input type="email" id="email" required />
+        </label>
+
+        <label id="age-label">
+          Age
+          <input type="number" id="age" min="15" max="40" />
+        </label>
+      </div>
+    </form>
   </body>
 </html>
