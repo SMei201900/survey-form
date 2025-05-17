@@ -2,6 +2,10 @@ h1 {
   color: blue;
 }
 
+header p {
+  font-size: 28px;
+}
+
 body {
   font-family: Special Gothic, sans-serif;
 }
