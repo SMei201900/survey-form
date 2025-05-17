@@ -4,11 +4,21 @@ h1 {
 
 .form-background {
   background-color: yellow;
+  border-radius: 10px;
 }
 
+/*
 .styling-the-labels {
   display: flex;
   flex-direction: column;
+}
+*/
+
+#name-label,
+#email-label,
+#age-label {
+  padding: 5px;
+  place-items: center;
 }
 
 #intro-section {
