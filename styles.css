@@ -18,7 +18,7 @@ h1 {
   font-size: 18px; 
 }
 
-.label-spacing {
+.label-spacing { /*I might be able to delete the indiduval ids later but for now leave it*/
   padding: 5px; 
 }
 
