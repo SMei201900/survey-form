@@ -18,18 +18,12 @@ h1 {
   font-size: 18px; 
 }
 
-#name-label,
-#email-label,
-#age-label {
-  padding: 5px; /*adds spacing between each form input*/
+.label-spacing {
+  padding: 5px; 
 }
 
 #intro-section {
   text-align: center;
-}
-
-.employment-status-row  {
-  padding-top: 8px;
 }
 
 

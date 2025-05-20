@@ -24,23 +24,23 @@
     <form id="survey-form">
       <div class="form-background">
         <div class="styling-the-labels">
-          <label id="name-label">
+          <label id="name-label" class="label-spacing">
             Name:
             <input type="text" id="name" placeholder="John Doe" required />
           </label>
 
-          <label id="email-label">
+          <label id="email-label" class="label-spacing">
             Email:
             <input type="email" id="email" required />
           </label>
 
-          <label id="age-label">
+          <label id="age-label" class="label-spacing">
             Age:
             <input type="number" id="age" min="15" max="40" />
           </label>
 
           <div class="employment-status-row">
-            <label id="employment-status">
+            <label id="employment-status" class="label-spacing">
               Which option best describes your current role? 
             </label>
             <select>
@@ -49,6 +49,15 @@
               <option>Underemployed</option>
               <option>Employed</option>
             </select>
+          </div>
+         
+          <label id="recommend-question" class="label-spacing">
+            Would you recommend freeCodeCamp to a friend          
+          </label>
+          <div id="recommend-buttons">
+            <input type="radio" value="rone" name="rbutton" /> Yes
+            <input type="radio" value="rtwo" name="rbutton" /> No
+            <input type="radio" value="rthree" name="rbutton" /> Maybe
           </div>
 
         </div>
