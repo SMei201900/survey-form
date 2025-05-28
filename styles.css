@@ -26,6 +26,16 @@ h1 {
   text-align: center;
 }
 
+.textarea-styling {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+}
+
+
+
+
+
 
 header p {
   font-size: 28px;
