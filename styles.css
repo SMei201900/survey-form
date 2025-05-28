@@ -1,12 +1,12 @@
 h1 {
-  color: blue; /*placeholder*/
+  color: #fcfcfc;
 }
 
 .form-background {
-  background-color: yellow; /*placeholder*/
+  background-color: #ffd4dd; 
   border-radius: 10px;
-  margin-left: 100px;
-  margin-right: 100px; /*margin ensures box does not touch edge of computer*/
+  margin-left: 250px;
+  margin-right: 250px; /*margin ensures box does not touch edge of computer*/
   padding-top: 20px; /*padding ensures text doesnt touch edge of box */
   padding-bottom: 20px;
 }
@@ -31,14 +31,30 @@ h1 {
   border-radius: 8px;
 }
 
+#submit {
+  font-size: 14px; 
+  margin-top: 10px;
+  padding: 5px;
+  background-color: orange; 
+  border: transparent;
+  border-radius: 8px;
+}
 
 
+#survey-form {
+  color:  #6f2d90;
+}
 
 
 header p {
   font-size: 28px;
+  color: 	#d84f4f;
 }
 
 body {
   font-family: Special Gothic, sans-serif;
+}
+
+html {
+  background-color: #212e53;
 }
