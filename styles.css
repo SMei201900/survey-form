@@ -41,6 +41,10 @@ h1 {
   color:#6f2d90;
 }
 
+#submit:hover {
+  background-color: #DACB8C;
+}
+
 #survey-form {
   color:  #6f2d90;
 }
