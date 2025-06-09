@@ -49,6 +49,20 @@ h1 {
   color:  #33216a;
 }
 
+#credits {
+  text-align: center;
+  color: #8ca3ae;
+  margin-top: 5px;
+}
+
+#credits a {
+  color: #cda3ae;
+}
+
+#credits a:hover {
+  color: #ddcc4f;
+} 
+
 header p {
   font-size: 28px;
   color: 	#cdcc4f;
